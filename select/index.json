@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サマーバケーSHON!!!!",
+  "base_artist": "シッコマン イン ザ パーティ",
+  "createdAt": "2026-01-13T15:36:20.747598Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サマーバケーSHON!!!!",
+      "artist": "シッコマン イン ザ パーティ",
+      "has_synced": false,
+      "path": "select/pl_01_サマーバケーSHON!!!!_シッコマン_イン_ザ_パーティ.txt"
+    }
+  ]
+}
